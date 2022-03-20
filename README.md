@@ -22,7 +22,7 @@
  -  All Their Chrome Passwords And Cookies
 > Webhook looks like this:
 
-<p align="left"><img src="!(https://media.discordapp.net/attachments/732961490713182299/955101837713887272/unknown.png)"</p>
+<img src="https://media.discordapp.net/attachments/732961490713182299/954866193171349514/Removal-8.png">
 
 ### 🌌・Setup:
 1. Start off by installing [python](https://www.python.org/) 
