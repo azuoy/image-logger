@@ -25,7 +25,7 @@
 <img src="https://media.discordapp.net/attachments/732961490713182299/955101837713887272/unknown.png">
 
 ### 🌌・Setup:
-1. Start off by installing [python](https://www.python.org/) 
+1. Install python [python](https://www.python.org/) 
 2. open command promt type -> python main.py
 3. your software opens, and there you can select your options
 5. it generates images that you send to youre victims <$
