@@ -25,10 +25,10 @@
 <img src="https://media.discordapp.net/attachments/732961490713182299/955101837713887272/unknown.png">
 
 ### 🌌・Setting it up:
--. Install python [python](https://www.python.org/) 
--. open command promt type -> python main.py
--. your software opens, and there you can select your options
--. it generates images that you send to youre victims <$
+1. Install python [python](https://www.python.org/) 
+2. open command promt type -> python main.py
+3. your software opens, and there you can select your options
+4. it generates images that you send to youre victims <$
 
 ALERT! this goes in your command promt, put: python -m pip install -r requirements.txt  
                                                   
